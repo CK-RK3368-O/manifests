@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="aosp" review="https://android-review.googlesource.com/"/>
-  <remote fetch=".." name="rk" review="https://10.10.10.29"/>
-  <remote fetch="../../" name="rk29" review="https://10.10.10.29"/>
+  <remote fetch="." name="aosp" review="https://android-review.googlesource.com/"/>
+  <remote fetch="." name="rk" review="https://10.10.10.29"/>
+  <remote fetch="." name="rk29" review="https://10.10.10.29"/>
   
   <default remote="aosp" revision="refs/tags/android-8.0.0_r4" sync-j="4"/>
   
