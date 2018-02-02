@@ -398,7 +398,7 @@
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" remote="rk" revision="025ac3804acbee2826fa932d6edaec0d5897ad1a" upstream="rk33/mid/8.1/develop"/>
   <project groups="pdk-fs" name="platform/packages/apps/Browser2" path="packages/apps/Browser2" remote="rk" revision="08e5514f97c94d674de472aeeed6f52bf66d4ab4" upstream="rk33/mid/8.1/develop"/>
   <project groups="pdk-fs" name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="956525423e51315015d6902e3b9487e72e9f4885" upstream="refs/tags/android-8.1.0_r1"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" remote="rk" revision="51ca99214822fbe8fe0f67bae6bdc4613a846730" upstream="rk33/mid/8.1/stable"/>
+  <project groups="pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" remote="rk" revision="e7426c5df2fe887c75e2c7715dc01a33a28d3527" upstream="rk33/mid/8.1/stable"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/Dialer" path="packages/apps/Car/Dialer" revision="785ae7b94e5e9345cad8e1749f3fa85e998af08e" upstream="refs/tags/android-8.1.0_r1"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/Hvac" path="packages/apps/Car/Hvac" revision="849c0aa26822983ea9a90290c34bd281cd7a5b69" upstream="refs/tags/android-8.1.0_r1"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/LatinIME" path="packages/apps/Car/LatinIME" revision="33aaf7c717b31188d2d56543c3a52bf9e63c5d42" upstream="refs/tags/android-8.1.0_r1"/>
