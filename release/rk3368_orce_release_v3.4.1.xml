@@ -581,7 +581,7 @@
     <copyfile dest="javaenv.sh" src="javaenv.sh"/>
   </project>
   <project name="rk/hardware/rk29/audio" path="hardware/rockchip/audio" remote="rk" revision="87aef46a959d96e4426a75ebb2a953f2b723d35b" upstream="rk33/mid/7.0/develop"/>
-  <project name="rk/hardware/rk29/camera" path="hardware/rockchip/camera" remote="rk" revision="547c791199d26e458dbff184ddc397c63dea28a0" upstream="rk33/mid/8.1/develop"/>
+  <project name="rk/hardware/rk29/camera" path="hardware/rockchip/camera" remote="rk" revision="92123ea01b638ab6560bf0f77dfc5c4d0292aec7" upstream="rk33/mid/8.1/stable"/>
   <project name="rk/hardware/rk29/drmservice" path="hardware/rockchip/drmservice" remote="rk" revision="07bf1b6819a790f918c1fe33cfc95cf84bd818f3" upstream="rk33/mid/8.0/develop"/>
   <project name="rk/hardware/rk29/hwcomposer_rga" path="hardware/rockchip/hwcomposer" remote="rk" revision="0cd17b979af9b50474192228902552542e883db1" upstream="rk33/mid/6.0/develop_drm"/>
   <project name="rk/hardware/rk29/jpeghw" path="hardware/rockchip/jpeghw" remote="rk" revision="d9a9a6e0971aa63a1ab66e1360bb74dd33b99275" upstream="rk32/mid/6.0/develop"/>
