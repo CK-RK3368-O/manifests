@@ -583,7 +583,7 @@
     <copyfile dest="javaenv.sh" src="javaenv.sh"/>
   </project>
   <project name="rk/hardware/rk29/audio" path="hardware/rockchip/audio" remote="rk" revision="87aef46a959d96e4426a75ebb2a953f2b723d35b" upstream="rk33/mid/7.0/develop"/>
-  <project name="rk/hardware/rk29/camera" path="hardware/rockchip/camera" remote="rk" revision="c477e81f94c42c1fb8e440936c8d923cf20e794f" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/hardware/rk29/camera" path="hardware/rockchip/camera" remote="rk" revision="0b519602eefa7eac25da51fc2cfc40fe89a47ed4" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/hardware/rk29/drmservice" path="hardware/rockchip/drmservice" remote="rk" revision="e117344dc4c768531e0f21c8c3ba584166248e2b" upstream="rk33/mid/8.0/develop"/>
   <project name="rk/hardware/rk29/hwcomposer_rga" path="hardware/rockchip/hwcomposer" remote="rk" revision="d8da5e43e4f95f2670e5417913dd51397bdb1a7b" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/hardware/rk29/jpeghw" path="hardware/rockchip/jpeghw" remote="rk" revision="d9a9a6e0971aa63a1ab66e1360bb74dd33b99275" upstream="rk32/mid/6.0/develop"/>
