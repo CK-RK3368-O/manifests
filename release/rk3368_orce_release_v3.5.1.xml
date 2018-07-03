@@ -6,7 +6,7 @@
   
   <default remote="aosp" revision="refs/tags/android-8.1.0_r29" sync-j="4"/>
   
-  <project name="RKTools" remote="rk3368" revision="698b354f02ab1579155a3383e1cb334f2fcf4b07" upstream="rk33/mid/develop8.0"/>
+  <project name="RKTools" remote="rk3368" revision="4f8819b8cf498b5c702b0b42ba56ca9c4f43108e" upstream="rk33/mid/develop8.0"/>
   <project groups="pdk-cw-fs,pdk" name="device/common" revision="f87323bed1150074fee5a0ad64d76aaed0c58f00" upstream="refs/tags/android-8.1.0_r29"/>
   <project groups="pdk" name="device/sample" revision="de83e9c165554ae4e42d739d0b93dac26f799144" upstream="refs/tags/android-8.1.0_r29"/>
   <project name="docs/android" path="RKDocs/android" remote="rk" revision="5415a9fab1d31a0b1ee1ae053313031ef1e748f8" upstream="rk33/mid/android-8.1"/>
