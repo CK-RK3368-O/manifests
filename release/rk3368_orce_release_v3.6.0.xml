@@ -594,7 +594,7 @@
   <project name="rk/hardware/rk29/omx_il" path="hardware/rockchip/omx_il" remote="rk" revision="0a3971fd87997cfd063a68167c26bb8942ce6114" upstream="rk33/mid/7.0/develop"/>
   <project name="rk/hardware/rk29/power" path="hardware/rockchip/power" remote="rk" revision="0a73369367c25191d059263bc4587d43cdc7ad5c" upstream="rk33/mid/8.0/develop"/>
   <project name="rk/hardware/rk29/sensor" path="hardware/rockchip/sensor" remote="rk" revision="526581cad07b1321ec7729b0e7dae05c4afe11a1" upstream="rk33/mid/8.0/develop"/>
-  <project name="rk/kernel" path="kernel" remote="rk" revision="57b07845fef7a7d14fda4b226ac5ed1628e4fc4d" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/kernel" path="kernel" remote="rk" revision="c0dda134093063cf74871cbdf997f964ce21fad0" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/platform/external/io" path="external/io" remote="rk" revision="ce23c82ae301239f8500e91a0008faa06db15147" upstream="rk32/mid/6.0/develop"/>
   <project name="rk/platform/external/ntfs-3g" path="external/ntfs-3g" remote="rk" revision="e9f81ddcc94194cfe7e410e1fffea36222b8d8d8" upstream="rk32/mid/6.0/develop"/>
   <project groups="pdk" name="rk/platform/external/rk-pcba-test" path="external/rk-pcba-test" remote="rk" revision="8952153a08cbb00b64c61aaa22f7f1bd97833e31" upstream="rk33/mid/8.0/develop-drm"/>
