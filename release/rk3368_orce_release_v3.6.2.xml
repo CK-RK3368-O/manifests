@@ -601,7 +601,7 @@
   <project name="rk/platform/vendor/Widevine" path="vendor/widevine" remote="rk" revision="c13bceec53a6031867c939e95633b8a297924eb2" upstream="rk33/mid/8.1/develop"/>
   <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common" remote="rk" revision="55c2b12e033dad690a42345c27542d772c410d76" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/rkst" path="rkst" remote="rk" revision="c264f23734649fdb83d983bea7bcf11612651926" upstream="rk32/mid/6.0/develop"/>
-  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="b34b3af556e5066af64a3617f4133160c39771c4" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="653657d1a73266371e41ad7f6152dab409b47bb4" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project groups="pdk" name="toolchain/binutils" revision="a4125cf8aeab9dfeac00f1bda80645987897152f" upstream="refs/tags/android-8.1.0_r43"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="platform/tools/repohooks"/>
