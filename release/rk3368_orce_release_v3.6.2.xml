@@ -16,7 +16,7 @@
   <project groups="pdk" name="platform/art" path="art" revision="7f13ce4d95e2f8e38a82021058025509b7e994df" upstream="refs/tags/android-8.1.0_r43"/>
   <project groups="pdk" name="platform/bionic" path="bionic" revision="f8822112d3f3062028c24dd8a7bea48259412d39" upstream="rk33/mid/8.1/develop"/>
   <project groups="pdk" name="platform/bootable/recovery" path="bootable/recovery" revision="ba4a51d15c4bc0958a9f135597844c2e6606d970" upstream="rk33/mid/8.1/develop"/>
-  <project groups="pdk" name="platform/build" path="build/make" revision="6c9616900a35f3de6167100fa0ed30c59584ccb7" upstream="rk33/mid/8.1/develop">
+  <project groups="pdk" name="platform/build" path="build/make" revision="f64efa517dbf106fd34219902f3166007d9fbc6d" upstream="rk33/mid/8.1/develop">
     <copyfile dest="Makefile" src="core/root.mk"/>
     <linkfile dest="build/CleanSpec.mk" src="CleanSpec.mk"/>
     <linkfile dest="build/buildspec.mk.default" src="buildspec.mk.default"/>
@@ -599,7 +599,7 @@
   <project name="rk/platform/external/ntfs-3g" path="external/ntfs-3g" remote="rk" revision="e9f81ddcc94194cfe7e410e1fffea36222b8d8d8" upstream="rk32/mid/6.0/develop"/>
   <project groups="pdk" name="rk/platform/external/rk-pcba-test" path="external/rk-pcba-test" remote="rk" revision="8952153a08cbb00b64c61aaa22f7f1bd97833e31" upstream="rk33/mid/8.0/develop-drm"/>
   <project name="rk/platform/vendor/Widevine" path="vendor/widevine" remote="rk" revision="c13bceec53a6031867c939e95633b8a297924eb2" upstream="rk33/mid/8.1/develop"/>
-  <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common" remote="rk" revision="55c2b12e033dad690a42345c27542d772c410d76" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common" remote="rk" revision="36f80d20a89eb6fba366e34ac47b8168cd8d2451" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/rkst" path="rkst" remote="rk" revision="c264f23734649fdb83d983bea7bcf11612651926" upstream="rk32/mid/6.0/develop"/>
   <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="653657d1a73266371e41ad7f6152dab409b47bb4" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project groups="pdk" name="toolchain/binutils" revision="a4125cf8aeab9dfeac00f1bda80645987897152f" upstream="refs/tags/android-8.1.0_r43"/>
