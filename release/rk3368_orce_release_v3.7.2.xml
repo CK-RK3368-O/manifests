@@ -594,14 +594,14 @@
   <project name="rk/hardware/rk29/omx_il" path="hardware/rockchip/omx_il" remote="rk" revision="0a3971fd87997cfd063a68167c26bb8942ce6114" upstream="rk33/mid/7.0/develop"/>
   <project name="rk/hardware/rk29/power" path="hardware/rockchip/power" remote="rk" revision="0a73369367c25191d059263bc4587d43cdc7ad5c" upstream="rk33/mid/8.0/develop"/>
   <project name="rk/hardware/rk29/sensor" path="hardware/rockchip/sensor" remote="rk" revision="fff7a59402643bd803239cc4d0212c0dd09a2c00" upstream="rk33/mid/8.0/develop"/>
-  <project name="rk/kernel" path="kernel" remote="rk" revision="c66de147f7538dd329e65934c2ac3ee8b64f1407" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/kernel" path="kernel" remote="rk" revision="4d3a85347f24e7b7dc36e74cf36ed9a2ad9b4f5d" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/platform/external/io" path="external/io" remote="rk" revision="ce23c82ae301239f8500e91a0008faa06db15147" upstream="rk32/mid/6.0/develop"/>
   <project name="rk/platform/external/ntfs-3g" path="external/ntfs-3g" remote="rk" revision="e9f81ddcc94194cfe7e410e1fffea36222b8d8d8" upstream="rk32/mid/6.0/develop"/>
   <project groups="pdk" name="rk/platform/external/rk-pcba-test" path="external/rk-pcba-test" remote="rk" revision="8952153a08cbb00b64c61aaa22f7f1bd97833e31" upstream="rk33/mid/8.0/develop-drm"/>
   <project name="rk/platform/vendor/Widevine" path="vendor/widevine" remote="rk" revision="c13bceec53a6031867c939e95633b8a297924eb2" upstream="rk33/mid/8.1/develop"/>
   <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common" remote="rk" revision="28622051d69600b767ddb5ea83e911bb854ec39c" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/rkst" path="rkst" remote="rk" revision="c264f23734649fdb83d983bea7bcf11612651926" upstream="rk32/mid/6.0/develop"/>
-  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="d0fb7b7273accf7f70cfa60944f779d4f7bf35e8" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="e0884b80b47109a3333546a69285a2a58e53410e" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project groups="pdk" name="toolchain/binutils" revision="a4125cf8aeab9dfeac00f1bda80645987897152f" upstream="refs/tags/android-8.1.0_r62"/>
 
   <repo-hooks enabled-list="pre-upload" in-project="platform/tools/repohooks"/>
