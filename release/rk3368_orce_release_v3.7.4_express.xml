@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- aosp sdk repository -->
+  <include name="release/rk3368_orce_release_v3.7.4.xml" />
+  <!-- gms repository -->
+  <project name="rk/platform/vendor/google" path="vendor/partner_gms" revision="0ebe7cac9e089bc0e7e5c89780f3b055f307034e" upstream="rk33/mid/8.1_express/develop"/>
+</manifest>
