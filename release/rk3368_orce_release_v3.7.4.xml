@@ -573,7 +573,7 @@
   <project groups="pdk" name="platform/tools/test/connectivity" path="tools/test/connectivity" revision="91b8da9d0822fc0610deadc9d6e9e0a9482e3e14" upstream="refs/tags/android-8.1.0_r68"/>
   <project groups="pdk,tradefed" name="platform/tools/tradefederation" path="tools/tradefederation/core" revision="b83aafdedf02b3ea0b5109457f674cbce3b670ba" upstream="refs/tags/android-8.1.0_r68"/>
   <project groups="pdk,tradefed" name="platform/tools/tradefederation/contrib" path="tools/tradefederation/contrib" revision="8dd3029197cdaa6d9e867d4c645b489a6f9f52b6" upstream="refs/tags/android-8.1.0_r68"/>
-  <project name="rk/device/rockchip/rk3368" path="device/rockchip/rk3368" remote="rk3368" revision="718f7fc6fb7d6039d185ffe5fc03875807cbcac5" upstream="rk33/mid/8.1/develop">
+  <project name="rk/device/rockchip/rk3368" path="device/rockchip/rk3368" remote="rk3368" revision="2d1811c68cc582877e76058442399e1b433325a2" upstream="stable">
     <copyfile dest="buildspec.mk" src="buildspec.mk"/>
     <copyfile dest="build.sh" src="build.sh"/>
   </project>
