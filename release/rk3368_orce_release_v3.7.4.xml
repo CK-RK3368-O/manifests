@@ -577,7 +577,7 @@
     <copyfile dest="buildspec.mk" src="buildspec.mk"/>
     <copyfile dest="build.sh" src="build.sh"/>
   </project>
-  <project name="rk/device/rockchip/rksdk" path="device/rockchip/common" remote="rk" revision="6b64e17f9c4dc6d640ad13d7a091b238fb390956" upstream="rk33/mid/8.1/develop">
+  <project name="rk/device/rockchip/rksdk" path="device/rockchip/common" remote="rk" revision="d658facca69deaf57da2bce8b438cd3114697023" upstream="rk3368_stable">
     <copyfile dest=".classpath" src=".classpath"/>
     <copyfile dest="mkimage.sh" src="mkimage.sh"/>
     <copyfile dest="javaenv.sh" src="javaenv.sh"/>
@@ -601,7 +601,7 @@
   <project name="rk/platform/vendor/Widevine" path="vendor/widevine" remote="rk" revision="c13bceec53a6031867c939e95633b8a297924eb2" upstream="rk33/mid/8.1/develop"/>
   <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common" remote="rk" revision="d8339aad167ce0a9600c42bcde810e0a69caa901" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project name="rk/rkst" path="rkst" remote="rk" revision="c264f23734649fdb83d983bea7bcf11612651926" upstream="rk32/mid/6.0/develop"/>
-  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="4bc9dad9d1b62eb9dd7ce4fd915f12645fe6e254" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
+  <project name="rk/u-boot" path="u-boot" remote="rk3368" revision="e652cd75a187ff8c7c9c78f476aca5da372fbbaf" upstream="rk3368-oreo-mr1-gms-express-baseline"/>
   <project groups="pdk" name="toolchain/binutils" revision="a4125cf8aeab9dfeac00f1bda80645987897152f" upstream="refs/tags/android-8.1.0_r68"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="platform/tools/repohooks"/>
